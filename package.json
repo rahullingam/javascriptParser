@@ -1,0 +1,11 @@
+{
+  "name": "arithmeticparser",
+  "version": "1.0.0",
+  "description": "parser",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC"
+}
